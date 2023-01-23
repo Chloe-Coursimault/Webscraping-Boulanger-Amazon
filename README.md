@@ -19,3 +19,6 @@ To conduct this project, we scraped 2 websites :
 
 ## Final interface
 To present our results, we computed a UI using Dash with Python.
+
+### How to launch it?
+To start our webapp, please download the file "webapp.py" along with files "details.csv" and "clean_data_boulanger.csv" and put it in the same repository. If necessary, solve import errors using "pip install xxx". Then execute the .py file and wait for the initialization (+/- 30 seconds). Finally, the webpage should be on port http://127.0.0.1:8050/ .
